@@ -8,6 +8,7 @@ public class Q1009 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+//		테스트 케이스 수
 		int t=sc.nextInt();
 		List<Integer> list = new ArrayList<Integer>();
 		

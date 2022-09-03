@@ -15,7 +15,7 @@ public class Q1193 {
 		int b=0;
 		
 		while(x>hap) {
-			//몇번째 대각선
+			//몇번째 대각선 
 			n++;
 			//x가 더 클때까지의 합
 			hap = n*(n+1)/2;

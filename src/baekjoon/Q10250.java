@@ -12,7 +12,7 @@ public class Q10250 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int t = Integer.parseInt(br.readLine());
 		int h=0;
-		int w=0;
+		int w=0; 
 		int n=0;
 		List<String> list = new ArrayList<String>();
 		

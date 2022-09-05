@@ -15,11 +15,12 @@ public class Q2775 {
 		int num[][]=new int[15][15];
 		List<Integer> list = new ArrayList<Integer>();
 		
+		// 0층, 1호 각각 값 지정
 		for(int i=0;i<15;i++) {
 			num[i][1] = 1;
 			num[0][i] = i;
 		}
-		
+		//해당 층의 인원 = 해당 층 호수-1 인원 + 해당 층-1 같은 호수 인원
 		for(int i=1;i<15;i++) {
 			for(int j=2;j<15;j++) {
 				num[i][j] = num[i][j-1] + num[i-1][j];

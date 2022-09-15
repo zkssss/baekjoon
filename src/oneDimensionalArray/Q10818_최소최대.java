@@ -3,7 +3,7 @@ package oneDimensionalArray;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q10818 {
+public class Q10818_최소최대 {
 	public static void main(String[] args) {
     
 		Scanner sc = new Scanner(System.in);

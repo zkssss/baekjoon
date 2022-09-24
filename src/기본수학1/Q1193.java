@@ -1,4 +1,4 @@
-package baekjoon;
+package 기본수학1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

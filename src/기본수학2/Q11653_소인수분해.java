@@ -14,8 +14,8 @@ public class Q11653_소인수분해 {
 			
 		}else if(n<=3) {
 			list.add(n);
-		}else {
-			for(int i=2;i<n;i++) {
+		}else if(n>3){
+			for(int i=2;i<=n;i++) {
 				if(n%i == 0) {
 					list.add(i);
 					n/=i;
@@ -25,9 +25,9 @@ public class Q11653_소인수분해 {
 					break;
 				}
 			}
-			for(int i : list) {
-				System.out.println(i);
-			}
+		}
+		for(int i : list) {
+			System.out.println(i);
 		}
 	}
 }

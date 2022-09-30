@@ -1,8 +1,8 @@
-package baekjoon;
+package 기하1;
 
 import java.util.Scanner;
 
-public class Q1002 {
+public class Q1002_터렛 {
 
 	public static void main(String[] args) {
 		// 터렛 위치 x1,y1 x2,y2

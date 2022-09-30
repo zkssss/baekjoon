@@ -1,4 +1,4 @@
-package baekjoon;
+package 정수론_및_조합론;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
-public class Q1037 {
+public class Q1037_약수 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		Scanner sc= new Scanner(System.in);
 		 int n = sc.nextInt();

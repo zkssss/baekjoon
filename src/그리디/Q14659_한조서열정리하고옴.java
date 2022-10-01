@@ -1,8 +1,8 @@
-package baekjoon;
+package 그리디;
 
 import java.util.Scanner;
 
-public class Q14659 {
+public class Q14659_한조서열정리하고옴 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 //		활잡이의 수

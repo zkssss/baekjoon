@@ -1,9 +1,9 @@
-package baekjoon;
+package 정렬;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Q10825 {
+public class Q10825_국영수 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 //		학생 수 

@@ -1,9 +1,9 @@
-package baekjoon;
+package 수학;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Q1075 {
+public class Q1075_나누기 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		Scanner sc= new Scanner(System.in);
 		int n = sc.nextInt();

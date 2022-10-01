@@ -1,9 +1,9 @@
-package baekjoon;
+package 구현;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q1076 {
+public class Q1076_저항 {
 	public static void main(String[] args){
 		int[] a = new int[10];
 		int[] b = new int[10];

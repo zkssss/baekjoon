@@ -1,10 +1,10 @@
-package baekjoon;
+package 수학;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Q1009 {
+public class Q1009_분산처리 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package beakJoon;
+package 정수론_및_조합론;
 
 import java.io.BufferedReader;
 import java.io.IOException;

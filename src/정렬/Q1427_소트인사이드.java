@@ -16,7 +16,6 @@ public class Main {
 		for(int i=0;i<num.length();i++){
 			c[i] = num.charAt(i);
 		}
-
 		Arrays.sort(c);
 		for(int i=num.length()-1;i>=0;i--){
 			System.out.print(c[i]);

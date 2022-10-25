@@ -1,4 +1,4 @@
-package oneDimensionalArray;
+package 일차원_배열;
 
 import java.util.Arrays;
 import java.util.Scanner;
